@@ -17,7 +17,7 @@ In addition to the detailed information and introductory article, filters have b
 
     (Once the Filter Button was removed, I was no longer able to filter search through the data. I can not identify the culprit and have re-written the code three times.)
 
-![Png 1](images/Overview_Filter_Search.png)
+![Png 1](static/images/Overview_Filter_Search.png)
 
 
 
